@@ -60,7 +60,11 @@ The parts list consists of commercially available parts, which should actually b
 | 14   | 16MHz, 32kB Flash, 1kB SRAM, 1kB EEPROM, TQFP-32            | ATmega32U2-AU | U3                  | ATmega32U2-AU     | TQFP-32_7x7mm_P0.8mm            | 1                |
 | 15   | Two pin crystal                                             | Crystal       | Y1                  | 16MHz             | Crystal_SMD_5032-2Pin_5.0x3.2mm | 1                |
 
+# PCB
 
+The PCB can either be ordered directly from [PCBWay](https://www.pcbway.com/project/shareproject/XommFloppy___Elegant_XUM1541_version.html), or you can create it yourself from the Gerber files available here.
+
+[![PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)](https://www.pcbway.com/project/shareproject/XommFloppy___Elegant_XUM1541_version.html)
 
 
 
